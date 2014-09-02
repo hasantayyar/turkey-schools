@@ -1,6 +1,5 @@
-**This is list has not contain all schools in Turkey.**
-Data parsed from Ministry of Education website.
-
+**This list has not contain all schools in Turkey.**
+Data parsed from Turkey Ministry of Education website.
 
 
 Sample record:  : 
